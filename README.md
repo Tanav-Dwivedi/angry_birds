@@ -1,2 +1,2 @@
 # angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+angry birds game on github by tanav dwivedi using git bash/hope u enjoy
